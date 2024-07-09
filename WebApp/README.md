@@ -1,6 +1,6 @@
 # Multimodal Emotion Recognition WebApp
 
-We analyze facial, vocal and textual emotions, using mostly deep learning based approaches. We deployed a web app using Flask :
+We analyzed facial, vocal and textual emotions, using mostly deep learning based approaches. We deployed a web app using Flask :
 
 ![image](webapp.png)
 
