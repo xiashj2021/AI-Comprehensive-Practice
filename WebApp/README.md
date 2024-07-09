@@ -1,17 +1,8 @@
 # Multimodal Emotion Recognition WebApp
 
-We analye facial, vocal and textual emotions, using mostly deep learning based approaches. We deployed a web app using Flask :
+We analyze facial, vocal and textual emotions, using mostly deep learning based approaches. We deployed a web app using Flask :
 
 ![image](webapp.png)
-
-## How to use it ?
-
-To use the web app :
-- Clone the project locally
-- Go in the WebApp folder
-- Run `$ pip install -r requirements.txt``
-- Launch the app by running `python main.py`
-- Go to http://127.0.0.1:5000/ (or follow the link given in your terminal
 
 ## How does it work ?
 
