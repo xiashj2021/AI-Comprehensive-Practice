@@ -1,6 +1,6 @@
 # Text-based Personality Traits Recognition
 
-![image](/Images/text_app.png)
+![image](Images/text_app.png)
 
 In this section you will find all resources, models and Python scripts relative to text-based personality traits recognition.
 
@@ -46,7 +46,7 @@ Gensim : 3.4.0
 
 ## Pipeline
 
-![image](/Images/text_pipeline.png)
+![image](Images/text_pipeline.png)
 
 The text-based personality recognition pipeline has the following structure :
 
@@ -74,4 +74,4 @@ Following the three blocks, we chose to stack 3 LSTM cells with 180 outputs each
 
 We tried different baseline models in order to assess the performance of our final architecture. Here are the accuracies of the different models.
 
-![image](/Images/perf_text_final.png)
+![image](Images/perf_text_final.png)
