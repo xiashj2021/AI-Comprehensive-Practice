@@ -2,7 +2,7 @@
 
 We analyzed facial, vocal and textual emotions, using mostly deep learning based approaches. We deployed a web app using Flask :
 
-![image](webapp.png)
+![image](Images/webapp.png)
 
 ## How does it work ?
 
